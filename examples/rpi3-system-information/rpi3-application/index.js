@@ -1,3 +1,3 @@
-var Bleno = require('./lib/bleno');
+var Bleno = require('bleno');
 
 module.exports = new Bleno();
